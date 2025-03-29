@@ -16,5 +16,5 @@ This project contains SQL data problem solutions based on the Employees database
 - Processing Data: MySQL - Local database
 
 ### Project Structure  
-- SQL Solutions.docx – a file containing practical cases of data processing and analysis based on the Employees database.
+- SQL Solutions.pdf – a file containing practical cases of data processing and analysis based on the Employees database.
 
